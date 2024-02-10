@@ -1,0 +1,28 @@
+*{
+  background-color: rgb(184, 250, 228);
+  font-family: Helvetica, sans-serif;
+}
+.title{
+  
+}
+.recipes > li{
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+}
+.descrip{
+  font-style: italic;
+}
+
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: beige;
+  
+}
+
+.ingredients, .steps{
+  font-weight: 100;
+  font-size: 18px;
+}
+strong{
+  font-style: italic;
+}
